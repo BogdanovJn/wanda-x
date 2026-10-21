@@ -992,10 +992,10 @@
       "contextual.selection-controls.controls.toggle.padding": "1c0ced3a7a6f99889bfb43749f797e04bf084162",
       "contextual.selection-controls.controls.toggle.inner.min-width": "8591b6fd425858f4e27133bdf25cafcc91925272",
       "border.selection-controls.controls.checkbox": "80ad254b13d2f86b204301714f25085032f2b5db",
-      "border.selection-controls.controls.radio-button": "0a30f1b55c30b0a5896e4ec4d375e386107e990f",
+      "border.selection-controls.controls.radio-button": "1d8cebcfc1420c8f443f4eb796258a5be042b1ba",
       "contextual.footer.block-logo": "93791aeb5204a73005e08efb9b768c2b19e1d3a8",
       "border.selection-controls.controls.toggle": "0582cd762dec91bdda4bba31fadc100a7fb97995",
-      "border.footer.top": "9b1a133d97d2a6a5421c9288283079d07399f78b",
+      "border.footer.top": "6d742027c103b0e878be1e7575f7036c54f6bfed",
       "contextual.empty.height": "44a9d4fbd551f32b5f8f34aacd2abe667ffa239d",
       "contextual.empty.text-gap": "97a21922b86a77d7ae0ddf6f7500e21e355c911b",
       "contextual.anchor.item.color": "b27f6a34862e6459ff9e04e7b42f64e14a959b83",
@@ -1068,7 +1068,11 @@
       "contextual.banner.content-block.gap.xs": "3dfa03026a939679cd6382a6c9fc68f94ab064a8",
       "contextual.banner.content-block.gap.lg": "40bda2df65efdc950b58f6dfffec507d71a40b2a",
       "contextual.banner.color.primary": "a9e9720a15436ff3dc8bd776a98535ca1fbadf0a",
-      "contextual.banner.color.secondary": "3868a14b7c1f3e33b333d3f2d7800ed79b03da08"
+      "contextual.banner.color.secondary": "3868a14b7c1f3e33b333d3f2d7800ed79b03da08",
+      "contextual.banner.img-size.xs": "6e933ccb38fef80b796a0c57d6173511cb18a498",
+      "contextual.banner.img-size.lg": "23046db610ce7b3ab6ba145399820e88170e907b",
+      "contextual.slider.min-height.xs": "0dd76b20bfc303eff9883e5fd7c282d4d20ffabc",
+      "contextual.slider.min-height.lg": "2436f6fea290aa8af5a434d691100592765cea30"
     },
     "$figmaCollectionId": "VariableCollectionId:77609:1237587",
     "$figmaModeId": "77609:0",
@@ -2153,7 +2157,11 @@
       "contextual.banner.content-block.gap.xs": "3dfa03026a939679cd6382a6c9fc68f94ab064a8",
       "contextual.banner.content-block.gap.lg": "40bda2df65efdc950b58f6dfffec507d71a40b2a",
       "contextual.banner.color.primary": "a9e9720a15436ff3dc8bd776a98535ca1fbadf0a",
-      "contextual.banner.color.secondary": "3868a14b7c1f3e33b333d3f2d7800ed79b03da08"
+      "contextual.banner.color.secondary": "3868a14b7c1f3e33b333d3f2d7800ed79b03da08",
+      "contextual.banner.img-size.xs": "6e933ccb38fef80b796a0c57d6173511cb18a498",
+      "contextual.banner.img-size.lg": "23046db610ce7b3ab6ba145399820e88170e907b",
+      "contextual.slider.min-height.xs": "0dd76b20bfc303eff9883e5fd7c282d4d20ffabc",
+      "contextual.slider.min-height.lg": "2436f6fea290aa8af5a434d691100592765cea30"
     },
     "group": "Product"
   }

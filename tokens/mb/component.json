@@ -2558,12 +2558,12 @@
         }
       },
       "front-size": {
-        "lg": {
-          "value": "258",
-          "type": "sizing"
-        },
         "xs": {
           "value": "158",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "258",
           "type": "sizing"
         }
       },
@@ -2597,6 +2597,16 @@
         "secondary": {
           "value": "{semantic.text.default-invert.tertiary}",
           "type": "color"
+        }
+      },
+      "min-height": {
+        "xs": {
+          "value": "224",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "340",
+          "type": "sizing"
         }
       }
     },
@@ -2697,6 +2707,16 @@
         "lg": {
           "value": "16",
           "type": "spacing"
+        }
+      },
+      "img-size": {
+        "xs": {
+          "value": "148",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{contextual.banner.min-height.lg}",
+          "type": "sizing"
         }
       }
     },
