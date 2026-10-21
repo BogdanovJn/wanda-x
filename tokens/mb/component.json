@@ -2250,6 +2250,50 @@
             "type": "color"
           }
         }
+      },
+      "inverted": {
+        "fill": {
+          "default": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.default-invert.heading}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a30}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.chips.inverted.border.active}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "label": {
