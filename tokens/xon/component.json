@@ -2675,6 +2675,40 @@
           "type": "sizing"
         }
       }
+    },
+    "heading": {
+      "icon-size": {
+        "xs": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "24",
+          "type": "sizing"
+        }
+      },
+      "gap": {
+        "primary": {
+          "xs": {
+            "value": "8",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "8",
+            "type": "spacing"
+          }
+        },
+        "secondary": {
+          "xs": {
+            "value": "4",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "6",
+            "type": "spacing"
+          }
+        }
+      }
     }
   },
   "button": {
