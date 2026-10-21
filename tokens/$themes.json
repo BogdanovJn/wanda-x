@@ -992,10 +992,10 @@
       "contextual.selection-controls.controls.toggle.padding": "1c0ced3a7a6f99889bfb43749f797e04bf084162",
       "contextual.selection-controls.controls.toggle.inner.min-width": "8591b6fd425858f4e27133bdf25cafcc91925272",
       "border.selection-controls.controls.checkbox": "80ad254b13d2f86b204301714f25085032f2b5db",
-      "border.selection-controls.controls.radio-button": "1d8cebcfc1420c8f443f4eb796258a5be042b1ba",
+      "border.selection-controls.controls.radio-button": "35205365ef86d1ee56030df373fa6373c5384871",
       "contextual.footer.block-logo": "93791aeb5204a73005e08efb9b768c2b19e1d3a8",
       "border.selection-controls.controls.toggle": "0582cd762dec91bdda4bba31fadc100a7fb97995",
-      "border.footer.top": "6d742027c103b0e878be1e7575f7036c54f6bfed",
+      "border.footer.top": "e51e2ba3caaf7fa88871af3ec9233c472b8a04a0",
       "contextual.empty.height": "44a9d4fbd551f32b5f8f34aacd2abe667ffa239d",
       "contextual.empty.text-gap": "97a21922b86a77d7ae0ddf6f7500e21e355c911b",
       "contextual.anchor.item.color": "b27f6a34862e6459ff9e04e7b42f64e14a959b83",
@@ -1072,7 +1072,8 @@
       "contextual.banner.img-size.xs": "6e933ccb38fef80b796a0c57d6173511cb18a498",
       "contextual.banner.img-size.lg": "23046db610ce7b3ab6ba145399820e88170e907b",
       "contextual.slider.min-height.xs": "0dd76b20bfc303eff9883e5fd7c282d4d20ffabc",
-      "contextual.slider.min-height.lg": "2436f6fea290aa8af5a434d691100592765cea30"
+      "contextual.slider.min-height.lg": "2436f6fea290aa8af5a434d691100592765cea30",
+      "contextual.banner.gap.xs": "0d3ed536269266c47c9ab3eb1449f56b9f2024f7"
     },
     "$figmaCollectionId": "VariableCollectionId:77609:1237587",
     "$figmaModeId": "77609:0",
@@ -2161,7 +2162,8 @@
       "contextual.banner.img-size.xs": "6e933ccb38fef80b796a0c57d6173511cb18a498",
       "contextual.banner.img-size.lg": "23046db610ce7b3ab6ba145399820e88170e907b",
       "contextual.slider.min-height.xs": "0dd76b20bfc303eff9883e5fd7c282d4d20ffabc",
-      "contextual.slider.min-height.lg": "2436f6fea290aa8af5a434d691100592765cea30"
+      "contextual.slider.min-height.lg": "2436f6fea290aa8af5a434d691100592765cea30",
+      "contextual.banner.gap.xs": "0d3ed536269266c47c9ab3eb1449f56b9f2024f7"
     },
     "group": "Product"
   }
