@@ -2631,7 +2631,7 @@
           }
         }
       },
-      "padding-horizontal": {
+      "padding-left": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2641,13 +2641,33 @@
           "type": "spacing"
         }
       },
+      "padding-right": {
+        "xs": {
+          "value": "148",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "240",
+          "type": "spacing"
+        }
+      },
+      "padding-vertical": {
+        "xs": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "16",
+          "type": "spacing"
+        }
+      },
       "gap": {
         "xs": {
           "value": "8",
           "type": "spacing"
         },
         "lg": {
-          "value": "16",
+          "value": "8",
           "type": "spacing"
         }
       },
@@ -2663,6 +2683,10 @@
       },
       "min-height": {
         "xs": {
+          "value": "220",
+          "type": "sizing"
+        },
+        "lg": {
           "value": "240",
           "type": "sizing"
         }
