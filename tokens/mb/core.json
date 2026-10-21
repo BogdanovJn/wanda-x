@@ -86,7 +86,7 @@
   "core": {
     "brand-preset": {
       "primary": {
-        "value": "#E0440F",
+        "value": "#10e024",
         "type": "color"
       },
       "secondary": {
