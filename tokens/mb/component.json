@@ -2189,44 +2189,44 @@
     "chips": {
       "normal": {
         "fill": {
+          "default": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
           "active": {
             "value": "{core.content.a8}",
             "type": "color"
-          },
-          "default": {
-            "value": "{core.content.a0}",
-            "type": "color"
-          },
-          "hover": {
-            "value": "{core.content.a0}",
-            "type": "color"
           }
         },
-        "icon": {
-          "active": {
-            "value": "{core.content.a100}",
-            "type": "color"
-          },
+        "color": {
           "default": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
           },
           "hover": {
             "value": "{semantic.icon.default.tertiary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.content.a100}",
             "type": "color"
           }
         },
         "border": {
-          "active": {
-            "value": "{core.content.a100}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.grey.300}",
             "type": "color"
           },
           "hover": {
             "value": "{contextual.chips.normal.border.active}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.content.a100}",
             "type": "color"
           }
         }
@@ -3341,9 +3341,25 @@
     }
   },
   "tag": {
+    "height": {
+      "sm": {
+        "value": "24",
+        "type": "sizing"
+      }
+    },
     "icon-size": {
-      "value": "16",
-      "type": "sizing"
+      "sm": {
+        "value": "16",
+        "type": "sizing"
+      }
+    },
+    "paddingH": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "4",
+      "type": "spacing"
     }
   },
   "shadow": {
@@ -3717,6 +3733,28 @@
       "icon-size": {
         "value": "16",
         "type": "sizing"
+      }
+    }
+  },
+  "chips": {
+    "paddingH": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "height": {
+      "sm": {
+        "value": "{size.400}",
+        "type": "sizing"
+      },
+      "icon-size": {
+        "sm": {
+          "value": "16",
+          "type": "sizing"
+        }
       }
     }
   }
