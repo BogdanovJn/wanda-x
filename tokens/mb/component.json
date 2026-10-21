@@ -2707,6 +2707,10 @@
         "lg": {
           "value": "16",
           "type": "spacing"
+        },
+        "xs": {
+          "value": "16",
+          "type": "spacing"
         }
       },
       "img-size": {
