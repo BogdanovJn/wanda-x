@@ -2202,7 +2202,7 @@
             "type": "color"
           }
         },
-        "color": {
+        "icon": {
           "default": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
@@ -3328,18 +3328,16 @@
   },
   "tag": {
     "height": {
-      "sm": {
-        "value": "24",
-        "type": "sizing"
-      }
+      "value": "24",
+      "type": "sizing"
     },
-    "icon-size": {
-      "sm": {
+    "icon": {
+      "size": {
         "value": "16",
         "type": "sizing"
       }
     },
-    "paddingH": {
+    "padding-h": {
       "value": "8",
       "type": "spacing"
     },
@@ -3723,25 +3721,23 @@
     }
   },
   "chips": {
-    "height": {
-      "sm": {
-        "value": "{size.400}",
-        "type": "sizing"
-      },
-      "icon-size": {
-        "sm": {
-          "value": "16",
-          "type": "sizing"
-        }
-      }
-    },
-    "paddingH": {
+    "padding-h": {
       "value": "8",
       "type": "spacing"
     },
     "gap": {
       "value": "4",
       "type": "spacing"
+    },
+    "height": {
+      "value": "{size.400}",
+      "type": "sizing"
+    },
+    "icon": {
+      "size": {
+        "value": "16",
+        "type": "sizing"
+      }
     }
   }
 }
