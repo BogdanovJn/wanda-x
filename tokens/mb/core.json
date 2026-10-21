@@ -86,8 +86,9 @@
   "core": {
     "brand-preset": {
       "primary": {
-        "value": "#10e024",
-        "type": "color"
+        "value": "#E0440F",
+        "type": "color",
+        "description": "Main"
       },
       "secondary": {
         "value": "#FFBE19",
