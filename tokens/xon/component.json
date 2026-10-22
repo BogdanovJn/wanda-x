@@ -753,6 +753,18 @@
               "type": "color"
             }
           }
+        },
+        "padding-horizontal": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "padding-top": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "16",
+          "type": "spacing"
         }
       }
     },
@@ -3514,6 +3526,14 @@
     "deals": {
       "bonus-card": {
         "content-block": {
+          "value": "1",
+          "type": "borderWidth"
+        }
+      }
+    },
+    "homepage": {
+      "winning-now": {
+        "default": {
           "value": "1",
           "type": "borderWidth"
         }
