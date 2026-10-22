@@ -2189,24 +2189,20 @@
     "chips": {
       "normal": {
         "fill": {
-          "active": {
-            "value": "{core.content.a8}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.content.a0}",
             "type": "color"
           },
           "hover": {
             "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.content.a8}",
             "type": "color"
           }
         },
         "icon": {
-          "active": {
-            "value": "{core.content.a100}",
-            "type": "color"
-          },
           "default": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
@@ -2214,19 +2210,67 @@
           "hover": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
-          }
-        },
-        "border": {
+          },
           "active": {
             "value": "{core.content.a100}",
             "type": "color"
-          },
+          }
+        },
+        "border": {
           "default": {
             "value": "{core.grey.300}",
             "type": "color"
           },
           "hover": {
             "value": "{contextual.chips.normal.border.active}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.content.a100}",
+            "type": "color"
+          }
+        }
+      },
+      "inverted": {
+        "fill": {
+          "default": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.default-invert.heading}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a30}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.chips.inverted.border.active}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.500}",
             "type": "color"
           }
         }
@@ -3401,9 +3445,23 @@
     }
   },
   "tag": {
-    "icon-size": {
-      "value": "16",
+    "height": {
+      "value": "24",
       "type": "sizing"
+    },
+    "icon": {
+      "size": {
+        "value": "16",
+        "type": "sizing"
+      }
+    },
+    "padding-h": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "4",
+      "type": "spacing"
     }
   },
   "shadow": {
@@ -3775,6 +3833,26 @@
         "type": "spacing"
       },
       "icon-size": {
+        "value": "16",
+        "type": "sizing"
+      }
+    }
+  },
+  "chips": {
+    "padding-h": {
+      "value": "8",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "height": {
+      "value": "{size.400}",
+      "type": "sizing"
+    },
+    "icon": {
+      "size": {
         "value": "16",
         "type": "sizing"
       }

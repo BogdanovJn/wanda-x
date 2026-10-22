@@ -1096,21 +1096,41 @@
       "fill": {
         "default": {
           "value": "{core.content.a0}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "NONE"
+            ]
+          }
         },
         "hover": {
           "value": "{core.brand-30.a10}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "NONE"
+            ]
+          }
         },
         "disabled": {
           "value": "{core.content.a0}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "NONE"
+            ]
+          }
         }
       },
       "border": {
         "default": {
           "value": "{core.brand-30.a80}",
-          "type": "color"
+          "type": "color",
+          "$extensions": {
+            "com.figma.scopes": [
+              "NONE"
+            ]
+          }
         },
         "hover": {
           "value": "{contextual.tag.border.default}",
@@ -2217,24 +2237,20 @@
     "chips": {
       "normal": {
         "fill": {
-          "active": {
-            "value": "{core.content.a8}",
-            "type": "color"
-          },
           "default": {
             "value": "{core.content.a0}",
             "type": "color"
           },
           "hover": {
             "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.content.a8}",
             "type": "color"
           }
         },
         "icon": {
-          "active": {
-            "value": "{core.content.a100}",
-            "type": "color"
-          },
           "default": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
@@ -2242,19 +2258,67 @@
           "hover": {
             "value": "{semantic.icon.default.tertiary}",
             "type": "color"
-          }
-        },
-        "border": {
+          },
           "active": {
             "value": "{core.content.a100}",
             "type": "color"
-          },
+          }
+        },
+        "border": {
           "default": {
             "value": "{core.grey.300}",
             "type": "color"
           },
           "hover": {
             "value": "{contextual.chips.normal.border.active}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.content.a100}",
+            "type": "color"
+          }
+        }
+      },
+      "inverted": {
+        "fill": {
+          "default": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{core.content.a0}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.a0}",
+            "type": "color"
+          }
+        },
+        "icon": {
+          "default": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.text.default-invert.heading}",
+            "type": "color"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core.white.a30}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{contextual.chips.inverted.border.active}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{core.white.500}",
             "type": "color"
           }
         }
@@ -3423,9 +3487,43 @@
     }
   },
   "tag": {
-    "icon-size": {
-      "value": "16",
-      "type": "sizing"
+    "height": {
+      "value": "24",
+      "type": "sizing",
+      "$extensions": {
+        "com.figma.scopes": [
+          "NONE"
+        ]
+      }
+    },
+    "icon": {
+      "size": {
+        "value": "16",
+        "type": "sizing",
+        "$extensions": {
+          "com.figma.scopes": [
+            "NONE"
+          ]
+        }
+      }
+    },
+    "padding-h": {
+      "value": "8",
+      "type": "spacing",
+      "$extensions": {
+        "com.figma.scopes": [
+          "NONE"
+        ]
+      }
+    },
+    "gap": {
+      "value": "4",
+      "type": "spacing",
+      "$extensions": {
+        "com.figma.scopes": [
+          "NONE"
+        ]
+      }
     }
   },
   "shadow": {
@@ -3797,6 +3895,31 @@
         "type": "spacing"
       },
       "icon-size": {
+        "value": "16",
+        "type": "sizing"
+      }
+    }
+  },
+  "chips": {
+    "padding-h": {
+      "value": "8",
+      "type": "spacing",
+      "$extensions": {
+        "com.figma.scopes": [
+          "NONE"
+        ]
+      }
+    },
+    "gap": {
+      "value": "4",
+      "type": "spacing"
+    },
+    "height": {
+      "value": "{size.400}",
+      "type": "sizing"
+    },
+    "icon": {
+      "size": {
         "value": "16",
         "type": "sizing"
       }
