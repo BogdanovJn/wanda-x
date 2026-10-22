@@ -304,11 +304,11 @@
             "description": "Tiket"
           }
         },
-        "padding-horizontal": {
+        "padding-h": {
           "value": "12",
           "type": "spacing"
         },
-        "padding-vertical": {
+        "padding-v": {
           "value": "16",
           "type": "spacing"
         },
@@ -367,15 +367,15 @@
           "type": "color"
         }
       },
-      "padding-horizontal": {
+      "padding-h": {
         "value": "24",
         "type": "spacing"
       },
-      "padding-botton": {
+      "padding-b": {
         "value": "24",
         "type": "spacing"
       },
-      "padding-top": {
+      "padding-t": {
         "value": "16",
         "type": "spacing"
       },
@@ -396,11 +396,11 @@
           "value": "{semantic.text.default-invert.heading}",
           "type": "color"
         },
-        "padding-horizontal": {
+        "padding-h": {
           "value": "8",
           "type": "spacing"
         },
-        "padding-vertical": {
+        "padding-v": {
           "value": "8",
           "type": "spacing"
         },
@@ -433,7 +433,7 @@
           "type": "spacing"
         }
       },
-      "padding-vertical": {
+      "padding-v": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -563,7 +563,7 @@
           "type": "color"
         }
       },
-      "image-size": {
+      "img-size": {
         "value": "86",
         "type": "sizing"
       }
@@ -608,7 +608,7 @@
             "type": "color"
           }
         },
-        "padding-horizontal": {
+        "padding-h": {
           "sm": {
             "value": "12",
             "type": "spacing"
@@ -627,11 +627,11 @@
         "value": "{semantic.fill.default}",
         "type": "color"
       },
-      "padding-vertical": {
+      "padding-v": {
         "value": "3",
         "type": "spacing"
       },
-      "padding-horizontal": {
+      "padding-h": {
         "value": "3",
         "type": "spacing"
       },
@@ -792,7 +792,7 @@
       "winning-now": {
         "item": {
           "fill": {
-            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.brand-60.300} 0%, {core.white.500} 100%)",
+            "value": "radial-gradient(62% 100.02% at 52% 0%, {contextual.homepage.winning-now.item-props.start} 0%, {contextual.homepage.winning-now.item-props.end} 100%)",
             "type": "color"
           },
           "border": {
@@ -814,15 +814,25 @@
             }
           }
         },
-        "padding-horizontal": {
+        "item-props": {
+          "start": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          },
+          "end": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          }
+        },
+        "padding-h": {
           "value": "12",
           "type": "spacing"
         },
-        "padding-top": {
+        "padding-t": {
           "value": "12",
           "type": "spacing"
         },
-        "padding-bottom": {
+        "padding-b": {
           "value": "16",
           "type": "spacing"
         }
@@ -1668,15 +1678,15 @@
         }
       },
       "bonus-card": {
-        "padding-right": {
+        "padding-r": {
           "value": "136",
           "type": "spacing"
         },
-        "padding-left": {
+        "padding-l": {
           "value": "16",
           "type": "spacing"
         },
-        "padding-vertical": {
+        "padding-v": {
           "value": "16",
           "type": "spacing"
         },
@@ -1717,11 +1727,11 @@
             "value": "8",
             "type": "spacing"
           },
-          "padding-horizontal": {
+          "padding-h": {
             "value": "8",
             "type": "spacing"
           },
-          "padding-vertical": {
+          "padding-v": {
             "value": "8",
             "type": "spacing"
           }
@@ -2617,11 +2627,11 @@
         "value": "{semantic.fill.default}",
         "type": "color"
       },
-      "padding-horizontal": {
+      "padding-h": {
         "value": "8",
         "type": "spacing"
       },
-      "padding-vertical": {
+      "padding-v": {
         "value": "5",
         "type": "spacing"
       },
@@ -2655,7 +2665,7 @@
         "value": "{semantic.border.default.default}",
         "type": "color"
       },
-      "padding-horizontal": {
+      "padding-h": {
         "xs": {
           "value": "{spacing.400}",
           "type": "spacing"
@@ -2665,7 +2675,7 @@
           "type": "spacing"
         }
       },
-      "padding-vertical": {
+      "padding-v": {
         "xs": {
           "value": "{spacing.400}",
           "type": "spacing"
@@ -2733,7 +2743,7 @@
           }
         }
       },
-      "padding-left": {
+      "padding-l": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2743,7 +2753,7 @@
           "type": "spacing"
         }
       },
-      "padding-right": {
+      "padding-r": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2769,7 +2779,7 @@
           "type": "sizing"
         }
       },
-      "padding-top": {
+      "padding-t": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2779,7 +2789,7 @@
           "type": "spacing"
         }
       },
-      "padding-bottom": {
+      "padding-b": {
         "xs": {
           "value": "24",
           "type": "spacing"
@@ -3078,7 +3088,7 @@
         "type": "sizing"
       }
     },
-    "padding-right": {
+    "padding-r": {
       "sm": {
         "value": "{spacing.200}",
         "type": "spacing"
@@ -3088,7 +3098,7 @@
         "type": "spacing"
       }
     },
-    "padding-left": {
+    "padding-l": {
       "sm": {
         "value": "{spacing.200}",
         "type": "spacing"
@@ -3268,7 +3278,7 @@
         "type": "spacing"
       }
     },
-    "padding-horizontal": {
+    "padding-h": {
       "xs": {
         "value": "{spacing.300}",
         "type": "spacing"
@@ -4047,7 +4057,7 @@
         "value": "20",
         "type": "sizing"
       },
-      "padding-horizontal": {
+      "padding-h": {
         "value": "{spacing.200}",
         "type": "spacing"
       },
