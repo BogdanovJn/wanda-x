@@ -512,6 +512,10 @@
             }
           }
         }
+      },
+      "active": {
+        "value": "{core.grey.200a40}",
+        "type": "color"
       }
     },
     "border": {
