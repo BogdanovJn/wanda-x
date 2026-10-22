@@ -1789,6 +1789,26 @@
               "value": "{core.white.a50}",
               "type": "color"
             }
+          },
+          "padding-h": {
+            "md": {
+              "value": "16",
+              "type": "spacing"
+            },
+            "lg": {
+              "value": "16",
+              "type": "spacing"
+            }
+          },
+          "size": {
+            "md": {
+              "value": "40",
+              "type": "sizing"
+            },
+            "lg": {
+              "value": "48",
+              "type": "sizing"
+            }
           }
         },
         "navigation": {
@@ -1847,11 +1867,11 @@
             }
           },
           "padding-h": {
-            "lg": {
+            "md": {
               "value": "24",
               "type": "spacing"
             },
-            "md": {
+            "lg": {
               "value": "24",
               "type": "spacing"
             }
