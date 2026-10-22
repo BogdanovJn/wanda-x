@@ -1,6 +1,10 @@
 {
   "border-radius": {
     "global": {
+      "xs": {
+        "value": "{border-radius.core.100}",
+        "type": "borderRadius"
+      },
       "lg": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
@@ -523,6 +527,10 @@
       },
       "active": {
         "value": "{semantic.fill.default}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{core.content.a8}",
         "type": "color"
       }
     },
