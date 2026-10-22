@@ -2951,6 +2951,24 @@
           }
         }
       }
+    },
+    "profile-menu": {
+      "item": {
+        "fill": {
+          "active": {
+            "value": "{semantic.fill.subtle}",
+            "type": "color"
+          }
+        },
+        "inverted": {
+          "fill": {
+            "active": {
+              "value": "{semantic.fill.subtle-invert}",
+              "type": "color"
+            }
+          }
+        }
+      }
     }
   },
   "button": {
@@ -3551,6 +3569,12 @@
         "value": "{border-radius.global.xs}",
         "type": "borderRadius"
       }
+    },
+    "profile-menu": {
+      "item": {
+        "value": "{border-radius.global.md}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -4132,6 +4156,36 @@
     "bullet": {
       "size": {
         "value": "{size.300}",
+        "type": "sizing"
+      }
+    }
+  },
+  "profile-menu": {
+    "item": {
+      "padding-h": {
+        "value": "{spacing.300}",
+        "type": "spacing"
+      },
+      "content-gap": {
+        "value": "{spacing.200}",
+        "type": "spacing"
+      },
+      "icon-size": {
+        "value": "{size.300}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{size.600}",
+        "type": "sizing"
+      }
+    },
+    "subitem": {
+      "padding-left": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      },
+      "height": {
+        "value": "{size.400}",
         "type": "sizing"
       }
     }
