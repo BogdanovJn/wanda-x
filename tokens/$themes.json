@@ -356,7 +356,6 @@
       "border-radius.input.md": "e60c0c38aea25e18592434915edf12dc91abff8a",
       "border-radius.label-timer": "a93eba3d5389765e9b8c4465b6c24d63558f966a",
       "border-radius.badge": "349a55eab3576b58030ea7ac0501d084da4862d6",
-      "border-radius.filter&sort.button": "714bb04cd7ad2374360579c9ef6760b892ac3191",
       "border-radius.popover": "ac103a8c4357df9bd8d538d968b73cd46ee5a4e3",
       "border-radius.gamehall.thumb-providers": "c989a83e014be34fe2a3be712196d5756e6e8a5b",
       "border-radius.balance.item": "113c44ed4475cd4b01db7820f9c53f4c6760d8be",
@@ -1111,7 +1110,8 @@
       "contextual.switcher.size.icon.md": "c9c50dea74d3566c522eda8aa7dd812f0922db3a",
       "contextual.switcher.size.icon.lg": "52ae7d5ffcaa306624d565a441b57d417b7ae4bd",
       "contextual.switcher.item.padding-horizontal.md": "4a1ad4fa43ffce555a24e25909cded6be0d63199",
-      "contextual.switcher.item.padding-horizontal.lg": "6e8bebf4aa28fefa05a7b6769065b018b394f15f"
+      "contextual.switcher.item.padding-horizontal.lg": "6e8bebf4aa28fefa05a7b6769065b018b394f15f",
+      "border-radius.filter&sort.item": "714bb04cd7ad2374360579c9ef6760b892ac3191"
     },
     "$figmaCollectionId": "VariableCollectionId:77609:1237587",
     "$figmaModeId": "77609:0",
@@ -1486,7 +1486,6 @@
       "border-radius.input.md": "e60c0c38aea25e18592434915edf12dc91abff8a",
       "border-radius.label-timer": "a93eba3d5389765e9b8c4465b6c24d63558f966a",
       "border-radius.badge": "349a55eab3576b58030ea7ac0501d084da4862d6",
-      "border-radius.filter&sort.button": "714bb04cd7ad2374360579c9ef6760b892ac3191",
       "border-radius.popover": "ac103a8c4357df9bd8d538d968b73cd46ee5a4e3",
       "border-radius.gamehall.thumb-providers": "c989a83e014be34fe2a3be712196d5756e6e8a5b",
       "border-radius.balance.item": "113c44ed4475cd4b01db7820f9c53f4c6760d8be",
@@ -2234,7 +2233,8 @@
       "switcher.padding-horizontal": "b0a6dff739829e7791a18c78e89df22106ccc621",
       "switcher.height.sm": "9109a9e75a868c4d059d9bdeae49a21341379cbf",
       "switcher.height.md": "e0e54afc96a6eb252de2c53676de4684f1e099d6",
-      "switcher.height.lg": "d7cbf13e99e74d76b2a9b9d4a86045cda5d85c39"
+      "switcher.height.lg": "d7cbf13e99e74d76b2a9b9d4a86045cda5d85c39",
+      "border-radius.filter&sort.item": "714bb04cd7ad2374360579c9ef6760b892ac3191"
     },
     "group": "Product"
   }

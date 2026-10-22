@@ -3297,9 +3297,14 @@
       "type": "borderRadius"
     },
     "filter&sort": {
-      "button": {
+      "item": {
         "value": "{border-radius.core.full}",
-        "type": "borderRadius"
+        "type": "borderRadius",
+        "$extensions": {
+          "com.figma.scopes": [
+            "NONE"
+          ]
+        }
       }
     },
     "popover": {
