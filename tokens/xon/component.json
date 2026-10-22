@@ -2602,12 +2602,12 @@
         }
       },
       "front-size": {
-        "lg": {
-          "value": "258",
-          "type": "sizing"
-        },
         "xs": {
           "value": "158",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "258",
           "type": "sizing"
         }
       },
@@ -2650,6 +2650,16 @@
           "value": "{semantic.text.default-invert.tertiary}",
           "type": "color"
         }
+      },
+      "min-height": {
+        "xs": {
+          "value": "224",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "340",
+          "type": "sizing"
+        }
       }
     },
     "banner": {
@@ -2683,7 +2693,27 @@
           }
         }
       },
-      "padding-horizontal": {
+      "padding-left": {
+        "xs": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "24",
+          "type": "spacing"
+        }
+      },
+      "padding-right": {
+        "xs": {
+          "value": "148",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "264",
+          "type": "spacing"
+        }
+      },
+      "padding-vertical": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2694,28 +2724,54 @@
         }
       },
       "content-block": {
-        "padding-horizontal": {
-          "value": "12",
-          "type": "spacing"
-        },
-        "padding-vertical": {
-          "value": "12",
-          "type": "spacing"
-        }
-      },
-      "gap": {
-        "xs": {
-          "value": "8",
-          "type": "spacing"
-        },
-        "lg": {
-          "value": "16",
-          "type": "spacing"
+        "gap": {
+          "xs": {
+            "value": "4",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "8",
+            "type": "spacing"
+          }
         }
       },
       "min-height": {
         "xs": {
+          "value": "220",
+          "type": "sizing"
+        },
+        "lg": {
           "value": "240",
+          "type": "sizing"
+        }
+      },
+      "color": {
+        "primary": {
+          "value": "{semantic.text.default-invert.heading}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{semantic.text.default-invert.secondary}",
+          "type": "color"
+        }
+      },
+      "gap": {
+        "lg": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "16",
+          "type": "spacing"
+        }
+      },
+      "img-size": {
+        "xs": {
+          "value": "148",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "{contextual.banner.min-height.lg}",
           "type": "sizing"
         }
       }
