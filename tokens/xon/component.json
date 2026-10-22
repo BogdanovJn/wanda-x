@@ -3969,5 +3969,33 @@
       "value": "{spacing.200}",
       "type": "spacing"
     }
+  },
+  "gamehall": {
+    "thumb-providers": {
+      "height": {
+        "value": "{dimension.16}",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "364",
+        "type": "sizing"
+      },
+      "padding-h": {
+        "value": "{spacing.800}",
+        "type": "spacing"
+      },
+      "provider": {
+        "gap": {
+          "value": "{spacing.200}",
+          "type": "spacing"
+        }
+      },
+      "progress": {
+        "gap": {
+          "value": "{spacing.400}",
+          "type": "spacing"
+        }
+      }
+    }
   }
 }
