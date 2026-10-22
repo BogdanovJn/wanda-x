@@ -2591,7 +2591,7 @@
           "type": "spacing"
         },
         "lg": {
-          "value": "32",
+          "value": "282",
           "type": "spacing"
         }
       },
@@ -2611,7 +2611,7 @@
           "type": "sizing"
         }
       },
-      "padding-vertical": {
+      "padding-top": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2621,27 +2621,7 @@
           "type": "spacing"
         }
       },
-      "content-block": {
-        "padding-horizontal": {
-          "value": "16",
-          "type": "spacing",
-          "lg": {
-            "value": "32",
-            "type": "spacing"
-          }
-        },
-        "padding-vertical": {
-          "value": "16",
-          "type": "spacing",
-          "lg": {
-            "value": "24",
-            "type": "spacing"
-          }
-        },
-        "fill": {
-          "value": "{core.grey.a30}",
-          "type": "color"
-        },
+      "color": {
         "primary": {
           "value": "{semantic.text.default-invert.primary}",
           "type": "color"
@@ -2659,6 +2639,16 @@
         "lg": {
           "value": "340",
           "type": "sizing"
+        }
+      },
+      "padding-bottom": {
+        "xs": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "24",
+          "type": "spacing"
         }
       }
     },
@@ -2807,6 +2797,34 @@
             "value": "6",
             "type": "spacing"
           }
+        }
+      }
+    },
+    "section": {
+      "gap": {
+        "xs": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "16",
+          "type": "spacing"
+        }
+      },
+      "padding-vertical": {
+        "xs": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "24",
+          "type": "spacing"
+        }
+      },
+      "fill": {
+        "primary": {
+          "value": "linear-gradient(135deg, {core.brand-preset.for-gradients.primary.start} 0%, {core.brand-preset.for-gradients.primary.end} 100%)",
+          "type": "color"
         }
       }
     }

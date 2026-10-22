@@ -146,6 +146,44 @@
           "value": "#324E3F",
           "type": "color",
           "description": "+ for collections"
+        },
+        "primary": {
+          "start": {
+            "value": "#FFD699",
+            "type": "color"
+          },
+          "end": {
+            "value": "{core.brand-preset.for-gradients.primary.start}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
+        },
+        "secondary": {
+          "start": {
+            "value": "#FABDFF",
+            "type": "color"
+          },
+          "end": {
+            "value": "{core.brand-preset.for-gradients.secondary.start}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0",
+                  "space": "hsl"
+                }
+              }
+            }
+          }
         }
       },
       "validation": {
