@@ -1800,6 +1800,10 @@
               "type": "spacing"
             }
           },
+          "gap": {
+            "value": "8",
+            "type": "spacing"
+          },
           "size": {
             "md": {
               "value": "40",
@@ -1875,6 +1879,10 @@
               "value": "24",
               "type": "spacing"
             }
+          },
+          "gap": {
+            "value": "8",
+            "type": "spacing"
           },
           "size": {
             "md": {
