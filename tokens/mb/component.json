@@ -1881,6 +1881,16 @@
               "value": "48",
               "type": "sizing"
             }
+          },
+          "padding-h": {
+            "md": {
+              "value": "24",
+              "type": "spacing"
+            },
+            "lg": {
+              "value": "24",
+              "type": "spacing"
+            }
           }
         }
       }
