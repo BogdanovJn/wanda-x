@@ -547,11 +547,63 @@
             "value": "{semantic.text.default-invert.heading}",
             "type": "color"
           }
+        },
+        "padding-horizontal": {
+          "sm": {
+            "value": "12",
+            "type": "spacing"
+          },
+          "md": {
+            "value": "16",
+            "type": "spacing"
+          },
+          "lg": {
+            "value": "16",
+            "type": "spacing"
+          }
         }
       },
       "fill": {
         "value": "{semantic.fill.default}",
         "type": "color"
+      },
+      "size": {
+        "item": {
+          "sm": {
+            "value": "26",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "34",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "42",
+            "type": "sizing"
+          }
+        },
+        "icon": {
+          "sm": {
+            "value": "16",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "20",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "24",
+            "type": "sizing"
+          }
+        }
+      },
+      "padding-vertical": {
+        "value": "3",
+        "type": "spacing"
+      },
+      "padding-horizontal": {
+        "value": "3",
+        "type": "spacing"
       }
     },
     "notifications": {
@@ -3104,36 +3156,6 @@
       "padding": {
         "value": "24",
         "type": "spacing"
-      }
-    }
-  },
-  "switcher": {
-    "item": {
-      "padding-horizontal": {
-        "value": "32",
-        "type": "spacing"
-      }
-    },
-    "padding-vertical": {
-      "value": "3",
-      "type": "spacing"
-    },
-    "padding-horizontal": {
-      "value": "3",
-      "type": "spacing"
-    },
-    "height": {
-      "sm": {
-        "value": "32",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "40",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "48",
-        "type": "sizing"
       }
     }
   },
