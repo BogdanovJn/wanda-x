@@ -516,6 +516,10 @@
       "active": {
         "value": "{core.grey.200a40}",
         "type": "color"
+      },
+      "subtle": {
+        "value": "{core.content.a8}",
+        "type": "color"
       }
     },
     "border": {
@@ -1074,16 +1078,20 @@
   },
   "border-radius": {
     "global": {
-      "lg": {
-        "value": "20",
+      "xs": {
+        "value": "{border-radius.core.100}",
+        "type": "borderRadius"
+      },
+      "sm": {
+        "value": "6",
         "type": "borderRadius"
       },
       "md": {
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       },
-      "sm": {
-        "value": "6",
+      "lg": {
+        "value": "20",
         "type": "borderRadius"
       }
     }

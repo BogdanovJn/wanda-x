@@ -2544,18 +2544,6 @@
         "type": "borderRadius"
       }
     },
-    "bullet": {
-      "fill": {
-        "default": {
-          "value": "{core.content.a8}",
-          "type": "color"
-        },
-        "active": {
-          "value": "{semantic.background.brand.emphasizing.default.primary}",
-          "type": "color"
-        }
-      }
-    },
     "timer": {
       "fill": {
         "value": "{semantic.fill.default}",
@@ -2927,6 +2915,20 @@
         "primary": {
           "value": "linear-gradient(135deg, {core.brand-preset.for-gradients.primary.start} 0%, {core.brand-preset.for-gradients.primary.end} 100%)",
           "type": "color"
+        }
+      }
+    },
+    "list": {
+      "bullet": {
+        "fill": {
+          "default": {
+            "value": "{semantic.fill.subtle}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{semantic.background.brand.emphasizing.default.primary}",
+            "type": "color"
+          }
         }
       }
     }
@@ -3506,6 +3508,12 @@
         "value": "{border-radius.core.300}",
         "type": "borderRadius"
       }
+    },
+    "list": {
+      "bullet": {
+        "value": "{border-radius.global.xs}",
+        "type": "borderRadius"
+      }
     }
   },
   "border": {
@@ -4041,6 +4049,18 @@
           "value": "{spacing.200}",
           "type": "spacing"
         }
+      }
+    }
+  },
+  "list": {
+    "gap": {
+      "value": "{spacing.100}",
+      "type": "spacing"
+    },
+    "bullet": {
+      "size": {
+        "value": "{size.300}",
+        "type": "sizing"
       }
     }
   }
