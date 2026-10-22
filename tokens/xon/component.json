@@ -3259,7 +3259,7 @@
       "type": "borderRadius"
     },
     "filter&sort": {
-      "button": {
+      "item": {
         "value": "{border-radius.core.full}",
         "type": "borderRadius"
       }
