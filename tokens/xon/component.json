@@ -914,11 +914,11 @@
             "type": "color"
           },
           "hover": {
-            "value": "{core.grey.600}",
+            "value": "{semantic.fill.hover}",
             "type": "color"
           },
           "active": {
-            "value": "{semantic.fill.default}",
+            "value": "{semantic.fill.active}",
             "type": "color"
           }
         }
@@ -3910,6 +3910,42 @@
         "value": "16",
         "type": "sizing"
       }
+    }
+  },
+  "filter-sort": {
+    "height": {
+      "value": "{size.400}",
+      "type": "sizing"
+    },
+    "padding-v": {
+      "value": "{spacing.100}",
+      "type": "spacing"
+    },
+    "padding-h": {
+      "value": "{spacing.200}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacing.50}",
+      "type": "spacing"
+    },
+    "icon-size": {
+      "value": "20",
+      "type": "sizing"
+    },
+    "chevron-size": {
+      "value": "{size.200}",
+      "type": "sizing"
+    }
+  },
+  "tabs-sort": {
+    "padding-h": {
+      "value": "{spacing.800}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{spacing.200}",
+      "type": "spacing"
     }
   }
 }
