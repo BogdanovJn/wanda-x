@@ -981,10 +981,10 @@
       "contextual.selection-controls.controls.toggle.padding": "1c0ced3a7a6f99889bfb43749f797e04bf084162",
       "contextual.selection-controls.controls.toggle.inner.min-width": "8591b6fd425858f4e27133bdf25cafcc91925272",
       "border.selection-controls.controls.checkbox": "80ad254b13d2f86b204301714f25085032f2b5db",
-      "border.selection-controls.controls.radio-button": "a9ca1d596c444d7fe1aba24490f241ad0ee8961f",
+      "border.selection-controls.controls.radio-button": "13db2e8b4b856776b1609bc4b481c1c22a988a8e",
       "contextual.footer.block-logo": "93791aeb5204a73005e08efb9b768c2b19e1d3a8",
       "border.selection-controls.controls.toggle": "0582cd762dec91bdda4bba31fadc100a7fb97995",
-      "border.footer.top": "b324553f7e475390ac09ce41c3021f77a59be56b",
+      "border.footer.top": "9d7fdca9393829606828fbd619998239520207da",
       "contextual.empty.height": "44a9d4fbd551f32b5f8f34aacd2abe667ffa239d",
       "contextual.empty.text-gap": "97a21922b86a77d7ae0ddf6f7500e21e355c911b",
       "contextual.anchor.item.color": "b27f6a34862e6459ff9e04e7b42f64e14a959b83",
@@ -1135,7 +1135,9 @@
       "contextual.lottery-tournament.ticket-number.img-size": "1c60ceb1cf974ca2425c39556439014dbb977805",
       "contextual.lottery-tournament.ticket-number.gap": "d5ae0a184f0b88729a6ddeb82525c4c11f314352",
       "contextual.lottery-tournament.ticket-number.size": "f7116d12527bab9c15abeeed3ea67c6cd8521392",
-      "contextual.lottery-tournament.ticket-number.color.secondary": "586c3b7b01682f0030bd6ff9089d34be64e8d192"
+      "contextual.lottery-tournament.ticket-number.color.secondary": "586c3b7b01682f0030bd6ff9089d34be64e8d192",
+      "contextual.tabs.item.navigation.size.md": "8f7fa3fca7fac17c9ffdd74d71b9e35d8a9d88b5",
+      "contextual.tabs.item.navigation.size.lg": "a266c67ba6f522be0ae0ebb5a640d273ddac385f"
     },
     "$figmaCollectionId": "VariableCollectionId:77609:1237587",
     "$figmaModeId": "77609:0",

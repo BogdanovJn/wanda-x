@@ -1871,6 +1871,16 @@
               "value": "{core.white.a50}",
               "type": "color"
             }
+          },
+          "size": {
+            "md": {
+              "value": "40",
+              "type": "sizing"
+            },
+            "lg": {
+              "value": "48",
+              "type": "sizing"
+            }
           }
         }
       }
