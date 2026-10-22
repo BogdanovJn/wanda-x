@@ -291,6 +291,38 @@
             "type": "color",
             "description": "Tiket"
           }
+        },
+        "color": {
+          "primary": {
+            "value": "{semantic.text.default-invert.heading}",
+            "type": "color",
+            "description": "Tiket"
+          },
+          "secondary": {
+            "value": "{semantic.text.default-invert.secondary}",
+            "type": "color",
+            "description": "Tiket"
+          }
+        },
+        "padding-horizontal": {
+          "value": "12",
+          "type": "spacing"
+        },
+        "padding-vertical": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "4",
+          "type": "spacing"
+        },
+        "img-size": {
+          "value": "80",
+          "type": "sizing"
+        },
+        "size": {
+          "value": "142",
+          "type": "sizing"
         }
       },
       "players-prizes": {

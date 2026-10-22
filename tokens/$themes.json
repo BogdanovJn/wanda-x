@@ -981,10 +981,10 @@
       "contextual.selection-controls.controls.toggle.padding": "1c0ced3a7a6f99889bfb43749f797e04bf084162",
       "contextual.selection-controls.controls.toggle.inner.min-width": "8591b6fd425858f4e27133bdf25cafcc91925272",
       "border.selection-controls.controls.checkbox": "80ad254b13d2f86b204301714f25085032f2b5db",
-      "border.selection-controls.controls.radio-button": "595cabaf48eb1fd1e6f721b3002d25dd91fb0662",
+      "border.selection-controls.controls.radio-button": "56432455f1a66868cd1c3a220309b766301b0cfb",
       "contextual.footer.block-logo": "93791aeb5204a73005e08efb9b768c2b19e1d3a8",
       "border.selection-controls.controls.toggle": "0582cd762dec91bdda4bba31fadc100a7fb97995",
-      "border.footer.top": "c90e5a5809d729f0e296be58de37a22a5ab40383",
+      "border.footer.top": "2b1a339a15ab00a354b6143516be992b25f0f68e",
       "contextual.empty.height": "44a9d4fbd551f32b5f8f34aacd2abe667ffa239d",
       "contextual.empty.text-gap": "97a21922b86a77d7ae0ddf6f7500e21e355c911b",
       "contextual.anchor.item.color": "b27f6a34862e6459ff9e04e7b42f64e14a959b83",
@@ -1129,7 +1129,14 @@
       "border.homepage.winning-now.default": "2be1a6aa1fd91d271ea02d2f6db98f4592f92ecd",
       "contextual.homepage.winning-now.padding-horizontal": "7661a82f770dd4ec7fc7659c7241d27b9f5f0c2b",
       "contextual.homepage.winning-now.padding-top": "f4e4e7a4cd127e7b25952452185cdfa5f1632f44",
-      "contextual.homepage.winning-now.padding-bottom": "b11e90e8e3c73e02eda0533c59651c7a266ab854"
+      "contextual.homepage.winning-now.padding-bottom": "b11e90e8e3c73e02eda0533c59651c7a266ab854",
+      "contextual.lottery-tournament.ticket-number.color.primary": "13598bbbda85dd89bc18bfdcb06a4ba7eb1b0b7a",
+      "contextual.lottery-tournament.ticket-number.padding-horizontal": "24e5e93be9ea8a17d1b4542b4619302b285ed935",
+      "contextual.lottery-tournament.ticket-number.padding-vertical": "04db74097f8b30f69b47f6531c042e3e4115fc09",
+      "contextual.lottery-tournament.ticket-number.img-size": "1c60ceb1cf974ca2425c39556439014dbb977805",
+      "contextual.lottery-tournament.ticket-number.gap": "d5ae0a184f0b88729a6ddeb82525c4c11f314352",
+      "contextual.lottery-tournament.ticket-number.size": "f7116d12527bab9c15abeeed3ea67c6cd8521392",
+      "contextual.lottery-tournament.ticket-number.color.secondary": "586c3b7b01682f0030bd6ff9089d34be64e8d192"
     },
     "$figmaCollectionId": "VariableCollectionId:77609:1237587",
     "$figmaModeId": "77609:0",
@@ -2275,7 +2282,14 @@
       "border.homepage.winning-now.default": "2be1a6aa1fd91d271ea02d2f6db98f4592f92ecd",
       "contextual.homepage.winning-now.padding-horizontal": "7661a82f770dd4ec7fc7659c7241d27b9f5f0c2b",
       "contextual.homepage.winning-now.padding-top": "f4e4e7a4cd127e7b25952452185cdfa5f1632f44",
-      "contextual.homepage.winning-now.padding-bottom": "b11e90e8e3c73e02eda0533c59651c7a266ab854"
+      "contextual.homepage.winning-now.padding-bottom": "b11e90e8e3c73e02eda0533c59651c7a266ab854",
+      "contextual.lottery-tournament.ticket-number.color.primary": "13598bbbda85dd89bc18bfdcb06a4ba7eb1b0b7a",
+      "contextual.lottery-tournament.ticket-number.padding-horizontal": "24e5e93be9ea8a17d1b4542b4619302b285ed935",
+      "contextual.lottery-tournament.ticket-number.padding-vertical": "04db74097f8b30f69b47f6531c042e3e4115fc09",
+      "contextual.lottery-tournament.ticket-number.img-size": "1c60ceb1cf974ca2425c39556439014dbb977805",
+      "contextual.lottery-tournament.ticket-number.gap": "d5ae0a184f0b88729a6ddeb82525c4c11f314352",
+      "contextual.lottery-tournament.ticket-number.size": "f7116d12527bab9c15abeeed3ea67c6cd8521392",
+      "contextual.lottery-tournament.ticket-number.color.secondary": "586c3b7b01682f0030bd6ff9089d34be64e8d192"
     },
     "group": "Product"
   }
