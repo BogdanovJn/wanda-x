@@ -2610,12 +2610,12 @@
     "toggle-button": {
       "fill": {
         "normal": {
-          "value": "{core.content.a0}",
+          "value": "{core.brand-60.a0}",
           "type": "color",
           "description": "Toggle-button"
         },
         "hover": {
-          "value": "{core.content.a0}",
+          "value": "{semantic.fill.default}",
           "type": "color",
           "description": "Toggle-button"
         },
@@ -2627,12 +2627,12 @@
       },
       "border": {
         "normal": {
-          "value": "{semantic.border.default.default}",
+          "value": "{semantic.fill.default}",
           "type": "color",
           "description": "Toggle-button"
         },
         "hover": {
-          "value": "{core.content.a40}",
+          "value": "{semantic.fill.default}",
           "type": "color",
           "description": "Toggle-button"
         },
