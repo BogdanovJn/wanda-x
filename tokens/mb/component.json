@@ -3002,7 +3002,7 @@
           }
         }
       },
-      "padding-left": {
+      "padding-l": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -3012,7 +3012,7 @@
           "type": "spacing"
         }
       },
-      "padding-right": {
+      "padding-r": {
         "xs": {
           "value": "148",
           "type": "spacing"
@@ -3022,7 +3022,7 @@
           "type": "spacing"
         }
       },
-      "padding-vertical": {
+      "padding-v": {
         "xs": {
           "value": "16",
           "type": "spacing"

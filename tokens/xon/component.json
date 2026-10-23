@@ -2790,7 +2790,7 @@
           }
         }
       },
-      "padding-left": {
+      "padding-l": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2800,7 +2800,7 @@
           "type": "spacing"
         }
       },
-      "padding-right": {
+      "padding-r": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2826,7 +2826,7 @@
           "type": "sizing"
         }
       },
-      "padding-top": {
+      "padding-t": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2856,7 +2856,7 @@
           "type": "sizing"
         }
       },
-      "padding-bottom": {
+      "padding-b": {
         "xs": {
           "value": "24",
           "type": "spacing"
@@ -2898,7 +2898,7 @@
           }
         }
       },
-      "padding-left": {
+      "padding-l": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -2908,7 +2908,7 @@
           "type": "spacing"
         }
       },
-      "padding-right": {
+      "padding-r": {
         "xs": {
           "value": "148",
           "type": "spacing"
@@ -2918,7 +2918,7 @@
           "type": "spacing"
         }
       },
-      "padding-vertical": {
+      "padding-v": {
         "xs": {
           "value": "16",
           "type": "spacing"
@@ -3026,7 +3026,7 @@
           "type": "spacing"
         }
       },
-      "padding-vertical": {
+      "padding-v": {
         "xs": {
           "value": "16",
           "type": "spacing"
