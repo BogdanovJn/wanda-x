@@ -340,24 +340,12 @@
       "ticket": {
         "background": {
           "fill": {
-            "value": "radial-gradient(62% 100.02% at 52% 0%, {contextual.lottery-tournament.ticket.background-props.start} 0%, {contextual.lottery-tournament.ticket.background-props.end} 100%)",
+            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.brand-preset.for-gradients.card.start} 0%, {core.brand-preset.for-gradients.card.end} 100%)",
             "type": "color",
             "description": "Tiket"
           },
           "border": {
             "value": "{core.grey.400}",
-            "type": "color",
-            "description": "Tiket"
-          }
-        },
-        "background-props": {
-          "start": {
-            "value": "{core.grey.200}",
-            "type": "color",
-            "description": "Tiket"
-          },
-          "end": {
-            "value": "{core.grey.50}",
             "type": "color",
             "description": "Tiket"
           }
@@ -782,7 +770,7 @@
       "winning-now": {
         "item": {
           "fill": {
-            "value": "radial-gradient(62% 100.02% at 52% 0%, {contextual.homepage.winning-now.item-props.start} 0%, {contextual.homepage.winning-now.item-props.end} 100%)",
+            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.brand-preset.for-gradients.card.start} 0%, {core.brand-preset.for-gradients.card.end} 100%)",
             "type": "color"
           },
           "border": {
@@ -815,16 +803,6 @@
         "padding-b": {
           "value": "16",
           "type": "spacing"
-        },
-        "item-props": {
-          "start": {
-            "value": "{core.grey.200}",
-            "type": "color"
-          },
-          "end": {
-            "value": "{core.grey.50}",
-            "type": "color"
-          }
         }
       }
     },
@@ -1636,7 +1614,7 @@
         },
         "background": {
           "active": {
-            "value": "radial-gradient(ellipse 129.96% 100% at 50% 0%, {contextual.deals.welcome-bonus-card.background-props.start} 0%, {contextual.deals.welcome-bonus-card.background-props.end} 100% )",
+            "value": "radial-gradient(62% 100.02% at 52% 0%, {core.brand-preset.for-gradients.card.start} 0%, {core.brand-preset.for-gradients.card.end} 100%)",
             "type": "color"
           }
         },
@@ -1649,16 +1627,6 @@
         "icon-size": {
           "value": "24",
           "type": "sizing"
-        },
-        "background-props": {
-          "start": {
-            "value": "{core.grey.200}",
-            "type": "color"
-          },
-          "end": {
-            "value": "{core.grey.50}",
-            "type": "color"
-          }
         },
         "color": {
           "primary": {
