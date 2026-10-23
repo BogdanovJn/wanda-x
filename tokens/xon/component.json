@@ -2569,29 +2569,29 @@
           "description": "Toggle-button"
         },
         "hover": {
-          "value": "{core.content.a0}",
+          "value": "{semantic.fill.default}",
           "type": "color",
           "description": "Toggle-button"
         },
         "active": {
-          "value": "{core.content.a100}",
+          "value": "{core.brand-60.600}",
           "type": "color",
           "description": "Toggle-button"
         }
       },
       "border": {
         "normal": {
-          "value": "{semantic.border.default.default}",
+          "value": "{semantic.fill.default}",
           "type": "color",
           "description": "Toggle-button"
         },
         "hover": {
-          "value": "{core.content.a40}",
+          "value": "{semantic.fill.default}",
           "type": "color",
           "description": "Toggle-button"
         },
         "active": {
-          "value": "{semantic.border.default.default}",
+          "value": "{core.content.a0}",
           "type": "color",
           "description": "Toggle-button"
         }
