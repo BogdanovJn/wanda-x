@@ -1663,6 +1663,14 @@
             "value": "{semantic.text.default.secondary}",
             "type": "color"
           }
+        },
+        "padding-h": {
+          "value": "16",
+          "type": "spacing"
+        },
+        "padding-v": {
+          "value": "16",
+          "type": "spacing"
         }
       },
       "bonus-card": {
