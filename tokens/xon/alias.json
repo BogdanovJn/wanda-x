@@ -445,7 +445,7 @@
         "description": "+ shop prices"
       },
       "slate-for-cards": {
-        "value": "{core.grey.800}",
+        "value": "linear-gradient(135deg, {core.brand-preset.for-gradients.primary.start} 0%, {core.brand-preset.for-gradients.primary.end} 100%)",
         "type": "color",
         "description": "+ slate for cards BG "
       },
