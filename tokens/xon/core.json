@@ -183,6 +183,16 @@
               }
             }
           }
+        },
+        "card": {
+          "start": {
+            "value": "{core.brand-60.200}",
+            "type": "color"
+          },
+          "end": {
+            "value": "{core.brand-60.50}",
+            "type": "color"
+          }
         }
       },
       "validation": {
