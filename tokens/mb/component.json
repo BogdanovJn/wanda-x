@@ -392,8 +392,14 @@
         "type": "spacing"
       },
       "gap": {
-        "value": "8",
+        "value": "16",
         "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "8",
+          "type": "spacing"
+        }
       },
       "result": {
         "fill": {
@@ -429,6 +435,58 @@
           },
           "secondary": {
             "value": "{semantic.text.default-invert.secondary}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "lootbox": {
+      "card": {
+        "padding-h": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "padding-b": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "padding-t": {
+          "value": "0",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "content": {
+          "gap": {
+            "value": "16",
+            "type": "spacing"
+          }
+        },
+        "fill": {
+          "value": "{core.grey.800}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "border": {
+          "value": "{semantic.divider.default.primary}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "color": {
+          "primary": {
+            "value": "{semantic.text.default-invert.heading}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          }
+        },
+        "prize-block": {
+          "fill": {
+            "value": "{semantic.background.5}",
             "type": "color"
           }
         }
@@ -3766,6 +3824,20 @@
         "content-block": {
           "value": "1",
           "type": "borderWidth"
+        },
+        "default": {
+          "value": "1",
+          "type": "borderWidth"
+        },
+        "active": {
+          "value": "1",
+          "type": "borderWidth"
+        }
+      },
+      "welcome-card": {
+        "default": {
+          "value": "1",
+          "type": "borderWidth"
         }
       }
     },
@@ -3775,6 +3847,12 @@
           "value": "1",
           "type": "borderWidth"
         }
+      }
+    },
+    "lootbox": {
+      "default": {
+        "value": "1",
+        "type": "borderWidth"
       }
     }
   },
