@@ -1630,13 +1630,37 @@
         },
         "background": {
           "active": {
-            "value": "radial-gradient(ellipse 129.96% 100% at 50% 0%, {core.brand-60.400} 0%, {core.grey.900} 100%)",
+            "value": "radial-gradient(ellipse 129.96% 100% at 50% 0%, {contextual.deals.welcome-bonus-card.background-props.start} 0%, {contextual.deals.welcome-bonus-card.background-props.end} 100% )",
             "type": "color"
           }
         },
         "tabs": {
           "background": {
             "value": "{core.grey.a30}",
+            "type": "color"
+          }
+        },
+        "icon-size": {
+          "value": "24",
+          "type": "sizing"
+        },
+        "background-props": {
+          "start": {
+            "value": "{core.grey.200}",
+            "type": "color"
+          },
+          "end": {
+            "value": "{core.grey.50}",
+            "type": "color"
+          }
+        },
+        "color": {
+          "primary": {
+            "value": "{semantic.text.default.heading}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{semantic.text.default.secondary}",
             "type": "color"
           }
         }
