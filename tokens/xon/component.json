@@ -3091,6 +3091,12 @@
       "gap": {
         "value": "24",
         "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "16",
+          "type": "spacing"
+        }
       }
     }
   },
