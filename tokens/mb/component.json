@@ -2620,7 +2620,7 @@
           "description": "Toggle-button"
         },
         "active": {
-          "value": "{core.content.a100}",
+          "value": "{core.brand-60.500}",
           "type": "color",
           "description": "Toggle-button"
         }
@@ -2637,7 +2637,7 @@
           "description": "Toggle-button"
         },
         "active": {
-          "value": "{semantic.border.default.default}",
+          "value": "{core.content.a0}",
           "type": "color",
           "description": "Toggle-button"
         }
@@ -2650,6 +2650,23 @@
         },
         "hover": {
           "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "active": {
+          "value": "{contextual.button.secondary.text.active}",
+          "type": "color",
+          "description": "Toggle-button"
+        }
+      },
+      "text-invert": {
+        "normal": {
+          "value": "{semantic.text.default-invert.heading}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "hover": {
+          "value": "{semantic.text.default-invert.primary}",
           "type": "color",
           "description": "Toggle-button"
         },
