@@ -451,7 +451,7 @@
           "type": "spacing"
         },
         "padding-t": {
-          "value": "16",
+          "value": "0",
           "type": "spacing"
         },
         "gap": {
@@ -487,10 +487,6 @@
         "prize-block": {
           "fill": {
             "value": "{semantic.background.5}",
-            "type": "color"
-          },
-          "border": {
-            "value": "{semantic.fill.default}",
             "type": "color"
           }
         }
@@ -3828,6 +3824,20 @@
         "content-block": {
           "value": "1",
           "type": "borderWidth"
+        },
+        "default": {
+          "value": "1",
+          "type": "borderWidth"
+        },
+        "active": {
+          "value": "1",
+          "type": "borderWidth"
+        }
+      },
+      "welcome-card": {
+        "default": {
+          "value": "1",
+          "type": "borderWidth"
         }
       }
     },
@@ -3837,6 +3847,12 @@
           "value": "1",
           "type": "borderWidth"
         }
+      }
+    },
+    "lootbox": {
+      "default": {
+        "value": "1",
+        "type": "borderWidth"
       }
     }
   },
