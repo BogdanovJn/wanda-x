@@ -3076,26 +3076,58 @@
       }
     },
     "lootbox": {
-      "padding-h": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "padding-b": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "padding-t": {
-        "value": "16",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "24",
-        "type": "spacing"
-      },
-      "content": {
-        "gap": {
+      "card": {
+        "padding-h": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "padding-b": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "padding-t": {
           "value": "16",
           "type": "spacing"
+        },
+        "gap": {
+          "value": "24",
+          "type": "spacing"
+        },
+        "content": {
+          "gap": {
+            "value": "16",
+            "type": "spacing"
+          }
+        },
+        "fill": {
+          "value": "{core.grey.800}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "border": {
+          "value": "{semantic.divider.default.primary}",
+          "type": "color",
+          "description": "status-inactive"
+        },
+        "color": {
+          "primary": {
+            "value": "{semantic.text.default-invert.heading}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{semantic.text.default-invert.tertiary}",
+            "type": "color"
+          }
+        },
+        "prize-block": {
+          "fill": {
+            "value": "{semantic.background.5}",
+            "type": "color"
+          },
+          "border": {
+            "value": "{semantic.fill.default}",
+            "type": "color"
+          }
         }
       }
     }
