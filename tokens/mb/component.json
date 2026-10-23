@@ -392,8 +392,14 @@
         "type": "spacing"
       },
       "gap": {
-        "value": "8",
+        "value": "16",
         "type": "spacing"
+      },
+      "content": {
+        "gap": {
+          "value": "8",
+          "type": "spacing"
+        }
       },
       "result": {
         "fill": {
@@ -432,6 +438,24 @@
             "type": "color"
           }
         }
+      }
+    },
+    "lootbox": {
+      "padding-h": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "padding-b": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "padding-t": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "24",
+        "type": "spacing"
       }
     },
     "section": {

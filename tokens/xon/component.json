@@ -392,7 +392,7 @@
         "type": "spacing"
       },
       "gap": {
-        "value": "8",
+        "value": "16",
         "type": "spacing"
       },
       "result": {
@@ -431,6 +431,12 @@
             "value": "{semantic.text.default.secondary}",
             "type": "color"
           }
+        }
+      },
+      "content": {
+        "gap": {
+          "value": "8",
+          "type": "spacing"
         }
       }
     },
@@ -3067,6 +3073,24 @@
             }
           }
         }
+      }
+    },
+    "lootbox": {
+      "padding-h": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "padding-b": {
+        "value": "24",
+        "type": "spacing"
+      },
+      "padding-t": {
+        "value": "16",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "24",
+        "type": "spacing"
       }
     }
   },
