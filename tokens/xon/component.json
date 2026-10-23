@@ -2606,6 +2606,23 @@
           "type": "color",
           "description": "Toggle-button"
         }
+      },
+      "text-invert": {
+        "normal": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "hover": {
+          "value": "{semantic.text.default.primary}",
+          "type": "color",
+          "description": "Toggle-button"
+        },
+        "active": {
+          "value": "{contextual.button.secondary.text.active}",
+          "type": "color",
+          "description": "Toggle-button"
+        }
       }
     },
     "special-menu-item": {
